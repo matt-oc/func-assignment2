@@ -1,2 +1,2 @@
 # func-assignment2
-repo for functional programming ass2
+repo for functional programming assignment2
